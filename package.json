@@ -1,0 +1,36 @@
+{
+  "name": "truffle-personalities",
+  "version": "1.0.0",
+  "description": "Relatable names for your Truffle test accounts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsnickbarry/truffle-personalities.git"
+  },
+  "keywords": [
+    "truffle",
+    "ganache",
+    "ethereum",
+    "test",
+    "dsl",
+    "solidity",
+    "test",
+    "alice",
+    "bob",
+    "carol",
+    "account",
+    "names",
+    "wow",
+    "readability",
+    "syntactic-sugar"
+  ],
+  "author": "Nick Barry",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/itsnickbarry/truffle-personalities/issues"
+  },
+  "homepage": "https://github.com/itsnickbarry/truffle-personalities#readme"
+}
